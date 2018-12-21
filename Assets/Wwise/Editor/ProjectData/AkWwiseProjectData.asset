@@ -1,0 +1,614 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8e535f0cb6e88cf4b8573185a08ca35f, type: 3}
+  m_Name: AkWwiseProjectData
+  m_EditorClassIdentifier: 
+  AcousticTextureWwu:
+  - Guid: '{7BF51E5E-8257-4192-9C14-60EB5C5F110A}'
+    m_lastTimePart2: -1999264600
+    m_lastTimePsrt1: -659221504
+    ParentPhysicalPath: 
+    PhysicalPath: Virtual Acoustics\Default Work Unit.wwu
+    List: []
+  - Guid: '{463D666B-3CA8-4FA5-8B4A-5FEF12B883F6}'
+    m_lastTimePart2: -1999265638
+    m_lastTimePsrt1: -2103168256
+    ParentPhysicalPath: 
+    PhysicalPath: Virtual Acoustics\Factory Reflect Acoustic Textures.wwu
+    List:
+    - Guid: f2532d2fccda8e408b8898b1b52a26d6
+      ID: -126323319
+      Name: Acoustic_Banner
+      Path: Factory Reflect Acoustic Textures\Textures\Acoustic_Banner
+      PathAndIcons:
+      - ElementName: Factory Reflect Acoustic Textures
+        ObjectType: 12
+      - ElementName: Textures
+        ObjectType: 4
+      - ElementName: Acoustic_Banner
+        ObjectType: 15
+    - Guid: 32c20a8be202de4ebeacfdd1a900e3ed
+      ID: 1873957695
+      Name: Anechoic
+      Path: Factory Reflect Acoustic Textures\Textures\Anechoic
+      PathAndIcons:
+      - ElementName: Factory Reflect Acoustic Textures
+        ObjectType: 12
+      - ElementName: Textures
+        ObjectType: 4
+      - ElementName: Anechoic
+        ObjectType: 15
+    - Guid: a9a586b004f2534ca838bdb18b18f6d6
+      ID: 504532776
+      Name: Brick
+      Path: Factory Reflect Acoustic Textures\Textures\Brick
+      PathAndIcons:
+      - ElementName: Factory Reflect Acoustic Textures
+        ObjectType: 12
+      - ElementName: Textures
+        ObjectType: 4
+      - ElementName: Brick
+        ObjectType: 15
+    - Guid: 8975223456dc604296c4b9f4b669092b
+      ID: -1882360988
+      Name: Carpet
+      Path: Factory Reflect Acoustic Textures\Textures\Carpet
+      PathAndIcons:
+      - ElementName: Factory Reflect Acoustic Textures
+        ObjectType: 12
+      - ElementName: Textures
+        ObjectType: 4
+      - ElementName: Carpet
+        ObjectType: 15
+    - Guid: 001cf85c9628e04aaf7c3080bdaba682
+      ID: 841620460
+      Name: Concrete
+      Path: Factory Reflect Acoustic Textures\Textures\Concrete
+      PathAndIcons:
+      - ElementName: Factory Reflect Acoustic Textures
+        ObjectType: 12
+      - ElementName: Textures
+        ObjectType: 4
+      - ElementName: Concrete
+        ObjectType: 15
+    - Guid: 19c9d2305f92434189063dbb3c4ae5e2
+      ID: -1099468548
+      Name: Cork_Tiles
+      Path: Factory Reflect Acoustic Textures\Textures\Cork_Tiles
+      PathAndIcons:
+      - ElementName: Factory Reflect Acoustic Textures
+        ObjectType: 12
+      - ElementName: Textures
+        ObjectType: 4
+      - ElementName: Cork_Tiles
+        ObjectType: 15
+    - Guid: 339ee6f8975c6849b508a1535f2d66e8
+      ID: -1366806192
+      Name: Curtains
+      Path: Factory Reflect Acoustic Textures\Textures\Curtains
+      PathAndIcons:
+      - ElementName: Factory Reflect Acoustic Textures
+        ObjectType: 12
+      - ElementName: Textures
+        ObjectType: 4
+      - ElementName: Curtains
+        ObjectType: 15
+    - Guid: f4e3a4680b4c8746a8b8a84db93dbc8f
+      ID: -624659732
+      Name: Drywall
+      Path: Factory Reflect Acoustic Textures\Textures\Drywall
+      PathAndIcons:
+      - ElementName: Factory Reflect Acoustic Textures
+        ObjectType: 12
+      - ElementName: Textures
+        ObjectType: 4
+      - ElementName: Drywall
+        ObjectType: 15
+    - Guid: 32d581836edbed4ea7a3bc7b0a0b8ba8
+      ID: 1970351858
+      Name: Fabric
+      Path: Factory Reflect Acoustic Textures\Textures\Fabric
+      PathAndIcons:
+      - ElementName: Factory Reflect Acoustic Textures
+        ObjectType: 12
+      - ElementName: Textures
+        ObjectType: 4
+      - ElementName: Fabric
+        ObjectType: 15
+    - Guid: 313793c51a00b44a98dd9b033a8c8eab
+      ID: 513139656
+      Name: Mountain
+      Path: Factory Reflect Acoustic Textures\Textures\Mountain
+      PathAndIcons:
+      - ElementName: Factory Reflect Acoustic Textures
+        ObjectType: 12
+      - ElementName: Textures
+        ObjectType: 4
+      - ElementName: Mountain
+        ObjectType: 15
+    - Guid: c4da82a82a13b747ba9db9907ba29cc0
+      ID: -1657378743
+      Name: Tile
+      Path: Factory Reflect Acoustic Textures\Textures\Tile
+      PathAndIcons:
+      - ElementName: Factory Reflect Acoustic Textures
+        ObjectType: 12
+      - ElementName: Textures
+        ObjectType: 4
+      - ElementName: Tile
+        ObjectType: 15
+    - Guid: 96bcff1fe76f9e48ba6c7c14a71391ae
+      ID: 2058049674
+      Name: Wood
+      Path: Factory Reflect Acoustic Textures\Textures\Wood
+      PathAndIcons:
+      - ElementName: Factory Reflect Acoustic Textures
+        ObjectType: 12
+      - ElementName: Textures
+        ObjectType: 4
+      - ElementName: Wood
+        ObjectType: 15
+    - Guid: e5d1857ba2c1634e9a13cec54b641adc
+      ID: -32444547
+      Name: Wood_Bright
+      Path: Factory Reflect Acoustic Textures\Textures\Wood_Bright
+      PathAndIcons:
+      - ElementName: Factory Reflect Acoustic Textures
+        ObjectType: 12
+      - ElementName: Textures
+        ObjectType: 4
+      - ElementName: Wood_Bright
+        ObjectType: 15
+    - Guid: 8e474652dac50c4ea0dec98d1479529a
+      ID: 1755085759
+      Name: Wood_Deep
+      Path: Factory Reflect Acoustic Textures\Textures\Wood_Deep
+      PathAndIcons:
+      - ElementName: Factory Reflect Acoustic Textures
+        ObjectType: 12
+      - ElementName: Textures
+        ObjectType: 4
+      - ElementName: Wood_Deep
+        ObjectType: 15
+  autoPopulateEnabled: 1
+  AuxBusWwu:
+  - Guid: '{7782984E-4C9F-48DC-8BEC-CB9AA3A55AAF}'
+    m_lastTimePart2: -1999264600
+    m_lastTimePsrt1: -659221504
+    ParentPhysicalPath: 
+    PhysicalPath: Master-Mixer Hierarchy\Default Work Unit.wwu
+    List: []
+  BankWwu:
+  - Guid: '{91B3D8A4-99C2-4AE5-8DD2-AF946D9CFBBB}'
+    m_lastTimePart2: -1999249257
+    m_lastTimePsrt1: 1792523264
+    ParentPhysicalPath: 
+    PhysicalPath: SoundBanks\Default Work Unit.wwu
+    List: []
+  - Guid: '{9BC25D78-0AA7-49F1-84CF-D9271FB9841C}'
+    m_lastTimePart2: -1999249257
+    m_lastTimePsrt1: -2082444032
+    ParentPhysicalPath: 
+    PhysicalPath: SoundBanks\MLS.wwu
+    List:
+    - Guid: 9665c8ebb5ddb94caaaee57cc49ce2e6
+      ID: -1969167550
+      Name: Madusa
+      Path: MLS\Madusa
+      PathAndIcons:
+      - ElementName: MLS
+        ObjectType: 12
+      - ElementName: Madusa
+        ObjectType: 7
+  basePath: Audio\GeneratedSoundBanks
+  callbackManagerBufferSize: 4
+  CurrentPluginConfig: 
+  defaultPoolSize: 4096
+  EventWwu:
+  - Guid: '{E25A0E92-0F2C-419E-8CDF-314E564C0EB2}'
+    m_lastTimePart2: -1999249257
+    m_lastTimePsrt1: 932523264
+    ParentPhysicalPath: 
+    PhysicalPath: Events\Ambience.wwu
+    List:
+    - Guid: 45383d833c20fd4da85bd952634f5c16
+      ID: -229478671
+      Name: Play_Audience_Loop_1
+      Path: Ambience\Play_Audience_Loop_1
+      PathAndIcons:
+      - ElementName: Ambience
+        ObjectType: 12
+      - ElementName: Play_Audience_Loop_1
+        ObjectType: 3
+      maxAttenuation: 0
+      maxDuration: 0
+      minDuration: 0
+    - Guid: c0710d9a3e01044c9db298ca3cea417c
+      ID: -1541368391
+      Name: Play_Audience_Wind
+      Path: Ambience\Play_Audience_Wind
+      PathAndIcons:
+      - ElementName: Ambience
+        ObjectType: 12
+      - ElementName: Play_Audience_Wind
+        ObjectType: 3
+      maxAttenuation: 0
+      maxDuration: 0
+      minDuration: 0
+  - Guid: '{8CAE0C62-86F0-4142-9FA5-6F80D00DA821}'
+    m_lastTimePart2: -1999249257
+    m_lastTimePsrt1: 932523264
+    ParentPhysicalPath: 
+    PhysicalPath: Events\Default Work Unit.wwu
+    List: []
+  - Guid: '{812278F0-401F-4AFB-ABAE-DAF7A3779A36}'
+    m_lastTimePart2: -1999249257
+    m_lastTimePsrt1: 1032523264
+    ParentPhysicalPath: 
+    PhysicalPath: Events\Enemies.wwu
+    List:
+    - Guid: 02fc390039d7d242bdd158bcbd9c6b62
+      ID: 1991322598
+      Name: Play_Body_Impacts
+      Path: Enemies\Play_Body_Impacts
+      PathAndIcons:
+      - ElementName: Enemies
+        ObjectType: 12
+      - ElementName: Play_Body_Impacts
+        ObjectType: 3
+      maxAttenuation: 0
+      maxDuration: 0
+      minDuration: 0
+    - Guid: 393b6f77aaabf34889e56f160270cb42
+      ID: -528083187
+      Name: Play_Crumbles
+      Path: Enemies\Play_Crumbles
+      PathAndIcons:
+      - ElementName: Enemies
+        ObjectType: 12
+      - ElementName: Play_Crumbles
+        ObjectType: 3
+      maxAttenuation: 0
+      maxDuration: 0
+      minDuration: 0
+    - Guid: fe0460a4ae325643a15a01adef63b2f7
+      ID: 622168011
+      Name: Play_Death_Screams
+      Path: Enemies\Play_Death_Screams
+      PathAndIcons:
+      - ElementName: Enemies
+        ObjectType: 12
+      - ElementName: Play_Death_Screams
+        ObjectType: 3
+      maxAttenuation: 0
+      maxDuration: 0
+      minDuration: 0
+    - Guid: ea117b54fcc95a4d97f4b075413c3419
+      ID: 2107350138
+      Name: Play_In_Air_Loops
+      Path: Enemies\Play_In_Air_Loops
+      PathAndIcons:
+      - ElementName: Enemies
+        ObjectType: 12
+      - ElementName: Play_In_Air_Loops
+        ObjectType: 3
+      maxAttenuation: 0
+      maxDuration: 0
+      minDuration: 0
+    - Guid: 6c8fb45d5a2cae418aa3fda10a423996
+      ID: -782516979
+      Name: Play_Spear_Impacts
+      Path: Enemies\Play_Spear_Impacts
+      PathAndIcons:
+      - ElementName: Enemies
+        ObjectType: 12
+      - ElementName: Play_Spear_Impacts
+        ObjectType: 3
+      maxAttenuation: 0
+      maxDuration: 0
+      minDuration: 0
+    - Guid: d31ed4070aba7b468c25993047173e03
+      ID: -320114395
+      Name: Play_Sword_Impacts
+      Path: Enemies\Play_Sword_Impacts
+      PathAndIcons:
+      - ElementName: Enemies
+        ObjectType: 12
+      - ElementName: Play_Sword_Impacts
+        ObjectType: 3
+      maxAttenuation: 0
+      maxDuration: 0
+      minDuration: 0
+    - Guid: ab3d2f6699570447b98d2cc3fd80d9f4
+      ID: 2007279353
+      Name: Play_Sword_Swings
+      Path: Enemies\Play_Sword_Swings
+      PathAndIcons:
+      - ElementName: Enemies
+        ObjectType: 12
+      - ElementName: Play_Sword_Swings
+        ObjectType: 3
+      maxAttenuation: 0
+      maxDuration: 0
+      minDuration: 0
+    - Guid: fd3384881d1bd54a8942b368bdcc33bb
+      ID: 1977644338
+      Name: Play_Throw
+      Path: Enemies\Play_Throw
+      PathAndIcons:
+      - ElementName: Enemies
+        ObjectType: 12
+      - ElementName: Play_Throw
+        ObjectType: 3
+      maxAttenuation: 0
+      maxDuration: 0
+      minDuration: 0
+  - Guid: '{7A94060B-0D0C-4008-A1E1-DB1254123ADE}'
+    m_lastTimePart2: -1999249257
+    m_lastTimePsrt1: 1032523264
+    ParentPhysicalPath: 
+    PhysicalPath: Events\Medusa.wwu
+    List:
+    - Guid: 9a76890afbf4894a881f057a96817a41
+      ID: 1172822028
+      Name: Play_Death
+      Path: Medusa\Play_Death
+      PathAndIcons:
+      - ElementName: Medusa
+        ObjectType: 12
+      - ElementName: Play_Death
+        ObjectType: 3
+      maxAttenuation: 0
+      maxDuration: 0
+      minDuration: 0
+    - Guid: 9da7e8d4a325084dbf4208cbb38b669c
+      ID: 1712135591
+      Name: Play_Efforts
+      Path: Medusa\Play_Efforts
+      PathAndIcons:
+      - ElementName: Medusa
+        ObjectType: 12
+      - ElementName: Play_Efforts
+        ObjectType: 3
+      maxAttenuation: 0
+      maxDuration: 0
+      minDuration: 0
+    - Guid: e1d4fcaa28654c429a290d587d836cd3
+      ID: -1402877831
+      Name: Play_MachineGun
+      Path: Medusa\Play_MachineGun
+      PathAndIcons:
+      - ElementName: Medusa
+        ObjectType: 12
+      - ElementName: Play_MachineGun
+        ObjectType: 3
+      maxAttenuation: 0
+      maxDuration: 0
+      minDuration: 0
+    - Guid: 46f85fabffa14946b28b9811d1d9a120
+      ID: -1546313073
+      Name: Play_Medusa_Movment_Loop
+      Path: Medusa\Play_Medusa_Movment_Loop
+      PathAndIcons:
+      - ElementName: Medusa
+        ObjectType: 12
+      - ElementName: Play_Medusa_Movment_Loop
+        ObjectType: 3
+      maxAttenuation: 0
+      maxDuration: 0
+      minDuration: 0
+    - Guid: 2428ca5cfc599c4fb62361bd1dde1bf7
+      ID: 1565037570
+      Name: Play_Puns
+      Path: Medusa\Play_Puns
+      PathAndIcons:
+      - ElementName: Medusa
+        ObjectType: 12
+      - ElementName: Play_Puns
+        ObjectType: 3
+      maxAttenuation: 0
+      maxDuration: 0
+      minDuration: 0
+    - Guid: 4f8c7de639727d48b4aa574cdb70ea6e
+      ID: 992244
+      Name: Play_Shotgun
+      Path: Medusa\Play_Shotgun
+      PathAndIcons:
+      - ElementName: Medusa
+        ObjectType: 12
+      - ElementName: Play_Shotgun
+        ObjectType: 3
+      maxAttenuation: 0
+      maxDuration: 0
+      minDuration: 0
+    - Guid: 40516d85bd6cfc4ea38a3ff60237a59d
+      ID: 826898240
+      Name: Play_Spell
+      Path: Medusa\Play_Spell
+      PathAndIcons:
+      - ElementName: Medusa
+        ObjectType: 12
+      - ElementName: Play_Spell
+        ObjectType: 3
+      maxAttenuation: 0
+      maxDuration: 0
+      minDuration: 0
+    - Guid: 4941073adf99f243a1ae424630073129
+      ID: -1088019537
+      Name: Play_Turn
+      Path: Medusa\Play_Turn
+      PathAndIcons:
+      - ElementName: Medusa
+        ObjectType: 12
+      - ElementName: Play_Turn
+        ObjectType: 3
+      maxAttenuation: 0
+      maxDuration: 0
+      minDuration: 0
+    - Guid: 8d9a21acfaa08647bbe0227f75273b6d
+      ID: 1004915535
+      Name: Stop_MachineGun
+      Path: Medusa\Stop_MachineGun
+      PathAndIcons:
+      - ElementName: Medusa
+        ObjectType: 12
+      - ElementName: Stop_MachineGun
+        ObjectType: 3
+      maxAttenuation: 0
+      maxDuration: 0
+      minDuration: 0
+    - Guid: a2b29fea61e703499e85420473a2af29
+      ID: 389589073
+      Name: Stop_Medusa_Movment_Loop
+      Path: Medusa\Stop_Medusa_Movment_Loop
+      PathAndIcons:
+      - ElementName: Medusa
+        ObjectType: 12
+      - ElementName: Stop_Medusa_Movment_Loop
+        ObjectType: 3
+      maxAttenuation: 0
+      maxDuration: 0
+      minDuration: 0
+  ExpandedItems:
+  - /MadusaLastStand(sd89john)
+  - /MadusaLastStand(sd89john)/Events
+  - /MadusaLastStand(sd89john)/Events/Medusa
+  language: English(US)
+  lowerPoolSize: 2048
+  m_lastPopulateTimePart2: 0
+  m_lastPopulateTimePsrt1: 0
+  memoryCutoffThreshold: 0.95
+  preparePoolSize: 0
+  RtpcWwu:
+  - Guid: '{FE29B2BD-A6D7-4233-9293-792218545A76}'
+    m_lastTimePart2: -1999264600
+    m_lastTimePsrt1: -659221504
+    ParentPhysicalPath: 
+    PhysicalPath: Game Parameters\Default Work Unit.wwu
+    List: []
+  - Guid: '{3B167755-FB42-458B-98BF-96F557AFB3B9}'
+    m_lastTimePart2: -1999265638
+    m_lastTimePsrt1: -2143168256
+    ParentPhysicalPath: 
+    PhysicalPath: Game Parameters\Factory SoundSeed Air Game Syncs.wwu
+    List:
+    - Guid: 59062ef746431c4ea1b1dab46a05101e
+      ID: 1351367891
+      Name: SS_Air_Fear
+      Path: Factory SoundSeed Air Game Syncs\SS_Air_Fear
+      PathAndIcons:
+      - ElementName: Factory SoundSeed Air Game Syncs
+        ObjectType: 12
+      - ElementName: SS_Air_Fear
+        ObjectType: 13
+    - Guid: 37fe2d2f9e4f944d83d853cca39781ad
+      ID: -1292209176
+      Name: SS_Air_Freefall
+      Path: Factory SoundSeed Air Game Syncs\SS_Air_Freefall
+      PathAndIcons:
+      - ElementName: Factory SoundSeed Air Game Syncs
+        ObjectType: 12
+      - ElementName: SS_Air_Freefall
+        ObjectType: 13
+    - Guid: dc79aea23acaba4696529986c322a87b
+      ID: 1029930033
+      Name: SS_Air_Fury
+      Path: Factory SoundSeed Air Game Syncs\SS_Air_Fury
+      PathAndIcons:
+      - ElementName: Factory SoundSeed Air Game Syncs
+        ObjectType: 12
+      - ElementName: SS_Air_Fury
+        ObjectType: 13
+    - Guid: 45b4e209a3c47f44b3ca818a1d925ef7
+      ID: -1646418679
+      Name: SS_Air_Month
+      Path: Factory SoundSeed Air Game Syncs\SS_Air_Month
+      PathAndIcons:
+      - ElementName: Factory SoundSeed Air Game Syncs
+        ObjectType: 12
+      - ElementName: SS_Air_Month
+        ObjectType: 13
+    - Guid: 1a81b7e32f7b0f49b44f5fe51b468041
+      ID: -447042342
+      Name: SS_Air_Presence
+      Path: Factory SoundSeed Air Game Syncs\SS_Air_Presence
+      PathAndIcons:
+      - ElementName: Factory SoundSeed Air Game Syncs
+        ObjectType: 12
+      - ElementName: SS_Air_Presence
+        ObjectType: 13
+    - Guid: ab9048a3d5b92645a64d5290c43ef2dc
+      ID: 822163944
+      Name: SS_Air_RPM
+      Path: Factory SoundSeed Air Game Syncs\SS_Air_RPM
+      PathAndIcons:
+      - ElementName: Factory SoundSeed Air Game Syncs
+        ObjectType: 12
+      - ElementName: SS_Air_RPM
+        ObjectType: 13
+    - Guid: efeb291393a12e47a38c64668b494879
+      ID: -1220270574
+      Name: SS_Air_Size
+      Path: Factory SoundSeed Air Game Syncs\SS_Air_Size
+      PathAndIcons:
+      - ElementName: Factory SoundSeed Air Game Syncs
+        ObjectType: 12
+      - ElementName: SS_Air_Size
+        ObjectType: 13
+    - Guid: db8c3fe9d1063747acaf7cd44bbed783
+      ID: -579304704
+      Name: SS_Air_Storm
+      Path: Factory SoundSeed Air Game Syncs\SS_Air_Storm
+      PathAndIcons:
+      - ElementName: Factory SoundSeed Air Game Syncs
+        ObjectType: 12
+      - ElementName: SS_Air_Storm
+        ObjectType: 13
+    - Guid: 2ca76f537e8c8b4cae03ef34fdadc314
+      ID: -1091570167
+      Name: SS_Air_TimeOfDay
+      Path: Factory SoundSeed Air Game Syncs\SS_Air_TimeOfDay
+      PathAndIcons:
+      - ElementName: Factory SoundSeed Air Game Syncs
+        ObjectType: 12
+      - ElementName: SS_Air_TimeOfDay
+        ObjectType: 13
+    - Guid: 197ba8edaa73a0409f192073606db710
+      ID: -134719478
+      Name: SS_Air_Turbulence
+      Path: Factory SoundSeed Air Game Syncs\SS_Air_Turbulence
+      PathAndIcons:
+      - ElementName: Factory SoundSeed Air Game Syncs
+        ObjectType: 12
+      - ElementName: SS_Air_Turbulence
+        ObjectType: 13
+  StateWwu:
+  - Guid: '{742A1FD4-F760-4488-BC01-5667D8875785}'
+    m_lastTimePart2: -1999264600
+    m_lastTimePsrt1: -659221504
+    ParentPhysicalPath: 
+    PhysicalPath: States\Default Work Unit.wwu
+    List: []
+  streamingPoolSize: 1024
+  SwitchWwu:
+  - Guid: '{A43C290B-C1D5-4F90-A43C-F183F3BD0BF5}'
+    m_lastTimePart2: -1999264600
+    m_lastTimePsrt1: -659221504
+    ParentPhysicalPath: 
+    PhysicalPath: Switches\Default Work Unit.wwu
+    List: []
+  TriggerWwu:
+  - Guid: '{702891BE-8B63-4727-B738-5127906C842D}'
+    m_lastTimePart2: -1999264600
+    m_lastTimePsrt1: -659221504
+    ParentPhysicalPath: 
+    PhysicalPath: Triggers\Default Work Unit.wwu
+    List: []

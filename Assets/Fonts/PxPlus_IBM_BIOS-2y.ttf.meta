@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: ed96edb1227c9bd41bed22cc5b02620c
+timeCreated: 1530581062
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: PxPlus IBM BIOS-2y
+  fontNames:
+  - PxPlus IBM BIOS-2y
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
